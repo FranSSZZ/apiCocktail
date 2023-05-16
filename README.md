@@ -3,7 +3,7 @@
 # Cocktail API<br>
 
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/logo.png" width="200" height="30">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/logo.png" width="200" height="30">
 </p><br>
 
 ### Contenido<br>
@@ -31,11 +31,11 @@ Para más detalle de la API y el método pueden consultar [TheCocktailDB](https:
 En cuanto a su uso, la API tiene opciones de enlaces/métodos con diferentes tipos de búsquedas. Tiene un conjunto de enlaces de acceso libre con una "KEY" pública y tiene una opción de contribución con un fee de 2$ para acceder a enlaces y métodos más completos y detallados. Pueden ver la lista en [TheCocktailDB](https://www.thecocktaildb.com/api.php). Para el ejercicio use el método que me permite hacer una búsqueda por nombre de cóctel en este caso [Search cocktail by name](www.thecocktaildb.com/api/json/v1/1/search.php?s=). En un próximo sprint quisiera agregar un filtro que permita agregar otras opciones de búsqueda: letra, ingrediente, una opción random. Así se ve el APIs [Search cocktail by name](www.thecocktaildb.com/api/json/v1/1/search.php?s=):
 
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/metodoApi.png" width="650" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/metodoApi.png" width="650" height="400">
 </p><br><br>
 
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/metodoApi2.png" width="650" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/metodoApi2.png" width="650" height="400">
 </p><br><br>
 
 ### HTML<br>
@@ -57,7 +57,7 @@ El HTML contiene:<br>
 * Un id "result" que hace referencia a un elemento en la página web donde se mostrará el resultado de la búsqueda de información sobre cócteles.<br><br>
  
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/html.jpeg" width="700" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/html.jpeg" width="700" height="400">
 </p><br>
 
 ### JAVASCRIPT<br>
@@ -65,7 +65,7 @@ El HTML contiene:<br>
 Sobre el JAVASCRIPT:<br>
   
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/js3.jpeg" width="450" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/js3.jpeg" width="450" height="400">
 </p><br>
 
 En las primeras líneas de código se declaran tres variables utilizando **`let`**:
@@ -93,11 +93,11 @@ Al final se agregan dos eventos de escucha al objeto **`window`** y al objeto **
 ### RESULTADO<br>
 
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/web1.jpeg" width="650" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/web1.jpeg" width="650" height="400">
 </p><br><br>
   
 <p align="center"> 
-  <img src="https://github.com/FranSSZZ/cocktail/blob/main/img/web2.jpeg" width="650" height="400">
+  <img src="https://github.com/FranSSZZ/apiCocktail/blob/main/img/web2.jpeg" width="650" height="400">
 </p><br><br>
 
 ### Más...<br><br>
