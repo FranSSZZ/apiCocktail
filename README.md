@@ -103,4 +103,3 @@ Al final se agregan dos eventos de escucha al objeto **`window`** y al objeto **
 ### Más...<br><br>
   
 Comparto un enlace a Notion con un cuaderno de notas sobre [APIs](https://www.notion.so/APIs-843f9ea9c25d4f6bbaa4c06e4d5c7e6d?pvs=4) y el uso de esta en particular [Cocktail API](https://www.notion.so/APIs-843f9ea9c25d4f6bbaa4c06e4d5c7e6d?pvs=4), ambos los iré actualizando para mi uso y como referencia para la persona que lo necesite.
->>>>>>> 26de17d8713798c594dd9798111c924084699b8d
